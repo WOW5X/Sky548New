@@ -72,3 +72,32 @@ Forum [http://www.projectskyfire.org](http://www.projectskyfire.org)
 Database [http://www.projectskyfire.org/index.php?/files/](http://www.projectskyfire.org/index.php?/files/)
 
 Wiki [http://wiki.projectskyfire.org](http://wiki.projectskyfire.org)
+
+
+
+https://www.youtube.com/watch?v=nkp2WyiQsyQ
+
+DerZocker
+1.02K subscribers
+
+Ich stelle euch heute ein neues Repack vor!
+Das Repack läuft auf Patch 5.4.8 (MoP), es handelt sich dabei um ein Fun Repack mit Verkäufern, Malls, uvm.!
+
+Downloads/Links:
+Vorstellung des Repacks im Forum: http://www.ac-web.org/forums/showthre...
+
+Repack+Maps: http://www.mediafire.com/download/7j7...
+Server: http://www.mediafire.com/download/7bi...
+Vmaps: http://www.mediafire.com/download/1nw...
+MMaps: http://www.mediafire.com/download/0hb...
+
+Source: https://github.com/treetrees/Sky548New
+
+
+Sollten die Direktlinks nicht mehr erreichbar sein, dann schaut ins Forum (Link oben).
+
+
+MySQL-Daten: 
+Host: localhost
+Username: root
+Passwort: ascent
